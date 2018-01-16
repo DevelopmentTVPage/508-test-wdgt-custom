@@ -1,0 +1,15 @@
+{
+    "title": "Custom Test 3",
+    "baseURL": "https:\/\/test.wdgt.custom",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "wdgt.custom"
+    }
+}
